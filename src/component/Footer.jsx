@@ -11,7 +11,7 @@ function Footer() {
             <h3 className='text-sm md:text-2xl font-normal'>Feel Free To reach out!</h3>
         </div>
         <ul className='text-sm md:text-xl'>
-            <li>  <MdOutlineEmail size={20} />
+            <li className='flex gap-1 items-center'>  <MdOutlineEmail size={20} />
           myemail@gmail.com
            </li> 
             <li className='flex gap-1 items-center'>
